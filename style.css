@@ -7,7 +7,6 @@ body {
     background-color: #FFF7ED;
     text-align: center;
     color: #FB923C;
-    /* margin-top: 10px; */
 }
 
 main {
@@ -42,7 +41,7 @@ main {
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 6vmin;
     color: #b0413e;
-    background-color: #FEF3C7;
+    background-color: #FFFFC7;
 }
 
 #reset-btn, #new-btn {
@@ -52,6 +51,10 @@ main {
     color: #fff;
     border-radius: 1rem;
     border: none;
+}
+
+.msg-container {
+    margin-top: 2rem;
 }
 
 #msg {
